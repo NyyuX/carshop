@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mock",
+    "\\src",
+    "\\src\\api",
+    "\\src\\store",
+    "\\src\\store\\modules",
+    "\\src\\utils",
+    "\\src\\views",
+    "\\src\\views\\factory",
+    "\\src\\views\\factory\\goodsempty"
+  ],
+  "PreviewInSolutionExplorer": false
+}
